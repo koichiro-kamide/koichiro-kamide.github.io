@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+富山大学大学院理工学研究科M1の上出耕一郎と申します。
 ## 学歴
 * 2025年4月 - 現在 富山大学 理工学研究科博士前期課程 理工学専攻 数理情報学プログラム
 * 2021年4月 - 2025年3月 富山大学 工学部 工学科 知能情報工学コース  
@@ -16,21 +17,21 @@ redirect_from:
 * Deep Learning, Computer Vision, Anomaly Detection, Human Motion, etc.
 
 ## 研究業績
-[3] *Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering*  
+[3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding, Koichiro Kamide, Jun Yu and Chao Zhang  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
-<span style="color: red; ">[Best Paper Award受賞](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)</span>
+[**Best Paper Award受賞**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)
 
-[2] *One-Model-All-Category Human Action Anomaly Detection*  
+[2] **One-Model-All-Category Human Action Anomaly Detection**  
 Koichiro KAMIDE,　Chunzhi GU,　Shun MAEDA,　Jun YU,　Chao ZHANG  
 [動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/), IS2-30, pp.356-360, 2025
 
-[1] *Few-shot三次元人物動作異常検知*  
+[1] **Few-shot三次元人物動作異常検知**  
 上出 耕一郎,　顧 淳祉,　前田 駿,　余 俊,　張 潮  
 [メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
-<span style="color: red; ">[研究奨励賞受賞](https://www.ite.or.jp/study/me/files/award.html)</span>
+[**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)
 
-## 受賞
+## 資格
 
 
 A data-driven personal website
@@ -68,6 +69,3 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

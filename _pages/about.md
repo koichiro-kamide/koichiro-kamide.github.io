@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-富山大学理工学研究科M1の上出耕一郎です。[張研究室](https://www.labzhang.com/)にて異常検知に関する研究に取り組んでいます。
+富山大学理工学研究科M1の上出耕一郎です。  
+[張研究室](https://www.labzhang.com/)にて異常検知に関する研究に取り組んでいます。
+
 ## 学歴
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 18px;">
   <tr>

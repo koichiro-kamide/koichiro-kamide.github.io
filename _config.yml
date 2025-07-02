@@ -23,13 +23,13 @@ repository               : "koichiro-kamide/koichiro-kamide.github.io"
 author:
   # Biographic information
   avatar           : "photo-koichiro.jpg"
-  name             : "Your Sidebar Name"
+  name             : "上出 耕一郎 / Koichiro Kamide"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Toyama"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "m25c1014@ems.u-toyama.ac.jp" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "koichiro-kamide"
+  # github           : "koichiro-kamide"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

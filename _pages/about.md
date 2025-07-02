@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-富山大学理工学研究科M1の上出耕一郎です。
+富山大学理工学研究科M1の上出耕一郎です。[張研究室](https://www.labzhang.com/)にて異常検知に関する研究に取り組んでいます。
 ## 学歴
 * 2025年4月 - 現在 富山大学 理工学研究科  
 * 2021年4月 - 2025年3月 富山大学 工学部  
@@ -17,8 +17,8 @@ redirect_from:
     <td style="width:70%; vertical-align: top; border: none;">富山大学 理工学研究科</td>
   </tr>
   <tr>
-    <td style="width:40%; vertical-align: top; border: none;">2021年4月 - 2025年3月</td>
-    <td style="width:60%; vertical-align: top; border: none;">富山大学 工学部</td>
+    <td style="width:30%; vertical-align: top; border: none;">2021年4月 - 2025年3月</td>
+    <td style="width:70%; vertical-align: top; border: none;">富山大学 工学部</td>
   </tr>
 </table>
 

@@ -1,19 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "自己紹介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 学歴
-## 富山大学
+## 学歴
 * 2025年4月 - 現在 富山大学 理工学研究科博士前期課程 理工学専攻 数理情報学プログラム
 * 2021年4月 - 2025年3月 富山大学 工学部 工学科 知能情報工学コース  
-| No   | 氏名        | 保有資格
-| – – -: | :- – – – – | :
-| 1    | 佐藤 一郎  | ITサービスマネージャ |
+
+
+## 研究分野
+* Deep Learning, Computer Vision, Anomaly Detection, Human Motion, etc.
+
+## 研究業績
+[2] One-Model-All-Category Human Action Anomaly Detection  
+Koichiro KAMIDE, Chunzhi GU, Shun MAEDA, Jun YU, Chao ZHANG  
+動的画像処理実利用化ワークショップ (DIA), IS2-30, pp.356-360, 2025
+
+[1] Few-shot三次元人物動作異常検知(https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME#:~:text=45%2D13%3A00-,Few%2Dshot%E4%B8%89%E6%AC%A1%E5%85%83%E4%BA%BA%E7%89%A9%E5%8B%95%E4%BD%9C%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5,-%E2%97%8B%E4%B8%8A%E5%87%BA)  
+上出耕一郎, 顧　淳祉, 前田　駿, 余　俊, 張　潮  
+メディア工学研究会（ME）, 2025
 
 A data-driven personal website
 ======

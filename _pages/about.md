@@ -55,7 +55,7 @@ Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang
 
 
 ## 資格
-* 2024年4月　TOEIC Listening & Reading Test　865点　取得  
+* 2024年4月　TOEIC Listening & Reading Test 865点　取得  
 * 2023年6月　応用情報技術者試験　合格  
 * 2023年6月　基本情報技術者試験　合格  
 * 2022年2月　第二種電気工事士　取得  

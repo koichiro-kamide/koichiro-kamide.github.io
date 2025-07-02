@@ -11,14 +11,14 @@ redirect_from:
 ## 学歴
 * 2025年4月 - 現在 富山大学 理工学研究科  
 * 2021年4月 - 2025年3月 富山大学 工学部  
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 20px;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 18px;">
   <tr>
-    <td style="width:40%; vertical-align: top; border: none;">2025年4月 - 現在</td>
-    <td style="width:60%; vertical-align: top; border: none;">富山大学 理工学研究科</td>
+    <td style="width:50%; vertical-align: top; border: none;">2025年4月 - 現在</td>
+    <td style="width:50%; vertical-align: top; border: none;">富山大学 理工学研究科</td>
   </tr>
   <tr>
-    <td style="width:40%; vertical-align: top; border: none;">2021年4月 - 2025年3月</td>
-    <td style="width:60%; vertical-align: top; border: none;">富山大学 工学部</td>
+    <td style="width:50%; vertical-align: top; border: none;">2021年4月 - 2025年3月</td>
+    <td style="width:50%; vertical-align: top; border: none;">富山大学 工学部</td>
   </tr>
 </table>
 

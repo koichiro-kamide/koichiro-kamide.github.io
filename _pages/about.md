@@ -7,25 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-
+富山大学理工学研究科M1の上出耕一郎です。
 ## 学歴
 * 2025年4月 - 現在 富山大学 理工学研究科  
 * 2021年4月 - 2025年3月 富山大学 工学部  
-<table>
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 16px;">
   <tr>
-    <td>2025年4月 - 現在</td>
-    <td>富山大学 理工学研究科</td>
+    <td style="width:30%; vertical-align: top; border: none;">2025年4月 - 現在</td>
+    <td style="width:70%; vertical-align: top; border: none;">富山大学 理工学研究科</td>
   </tr>
   <tr>
-    <td>2021年4月 - 2025年3月</td>
-    <td>富山大学 工学部</td>
+    <td style="width:30%; vertical-align: top; border: none;">2021年4月 - 2025年3月</td>
+    <td style="width:70%; vertical-align: top; border: none;">富山大学 工学部</td>
   </tr>
 </table>
 
-| 年月                | 所属                    |
-|---------------------|-------------------------|
-| 2025年4月 - 現在     | A大学 理工学研究科       |
-| 2021年4月 - 2025年3月 | A大学 工学部           |
 <!-- 
 * 2025年4月 - 現在 富山大学 理工学研究科博士前期課程 理工学専攻 数理情報学プログラム  
 * 2021年4月 - 2025年3月 富山大学 工学部 工学科 知能情報工学コース  

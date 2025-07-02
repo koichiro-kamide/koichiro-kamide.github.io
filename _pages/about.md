@@ -14,7 +14,7 @@ redirect_from:
 
 
 ## 研究分野
-* Deep Learning, Computer Vision, Anomaly Detection, Human Motion, etc.
+Deep Learning,　Computer Vision,　Anomaly Detection,　Human Motion,　etc.
 
 ## 研究業績
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  

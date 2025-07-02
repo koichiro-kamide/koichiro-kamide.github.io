@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "自己紹介"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 * 2021年4月 - 2025年3月 富山大学 工学部 工学科 知能情報工学コース  
 
 
-### 研究分野
+## 研究分野
 [](Deep Learning,　Computer Vision,　Anomaly Detection,　Human Motion,　etc.)
 深層学習、コンピュータビジョン、異常検知、人物動作など
 
@@ -40,7 +40,8 @@ Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang
 * 2023年6月　応用情報技術者試験　合格
 * 2024年4月　TOEIC Listening & Reading Test 865点　取得
 
-[](
+
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -75,4 +76,4 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-)
+-->

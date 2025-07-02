@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 富山大学大学院理工学研究科M1の上出耕一郎と申します。
-## 学歴
+# 学歴
 * 2025年4月 - 現在 富山大学 理工学研究科博士前期課程 理工学専攻 数理情報学プログラム
 * 2021年4月 - 2025年3月 富山大学 工学部 工学科 知能情報工学コース  
 
 
-## 研究分野
+# 研究分野
 [](Deep Learning,　Computer Vision,　Anomaly Detection,　Human Motion,　etc.)
 深層学習、コンピュータビジョン、異常検知、人物動作など
 
 
-## 研究業績
+# 研究業績
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
@@ -34,11 +34,11 @@ Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang
 [**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)
 
 
-## 資格
-2022年2月　第二種電気工事士　取得
-2023年6月　基本情報技術者試験　合格
-2023年6月　応用情報技術者試験　合格
-2024年4月　TOEIC Listening & Reading Test 865点　取得
+# 資格
+* 2022年2月　第二種電気工事士　取得
+* 2023年6月　基本情報技術者試験　合格
+* 2023年6月　応用情報技術者試験　合格
+* 2024年4月　TOEIC Listening & Reading Test 865点　取得
 
 
 A data-driven personal website

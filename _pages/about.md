@@ -11,7 +11,7 @@ redirect_from:
 [張研究室](https://www.labzhang.com/)にて異常検知に関する研究に取り組んでいます。
 
 ## 学歴
-* 2025年4月-現在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;富山大学 理工学研究科  
+* 2025年4月-現在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;富山大学 理工学研究科  
 * 2021年4月-2025年3月 富山大学 工学部  
 
 <!-- 

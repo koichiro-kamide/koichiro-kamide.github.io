@@ -28,7 +28,7 @@ Yu Ding,　**Koichiro Kamide**,　Jun Yu　and　Chao Zhang
 
 [1] **Few-shot三次元人物動作異常検知**  
 **上出 耕一郎**,　顧 淳祉,　前田 駿,　余 俊,　張 潮  
-[メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
+[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
 [**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)
 
 ## 資格

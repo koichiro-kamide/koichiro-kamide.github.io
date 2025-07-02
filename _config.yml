@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Koichiro Kamide / Site Title"
+title                    : "Koichiro Kamide / About Me"
 title_separator          : "-"
 name                     : &name "Koichiro Kamide"
 description              : &description "personal description"

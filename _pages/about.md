@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 自己紹介ページ
+title: 自己紹介
 author_profile: true
 redirect_from: 
   - /about/

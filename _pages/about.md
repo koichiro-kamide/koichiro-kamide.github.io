@@ -39,6 +39,10 @@ redirect_from:
 
 
 ## 研究業績
+[4] **データ拡張を用いた人物動作異常検知**
+**上出　耕一郎**　前田 駿　坂井 俊介,　顧 淳祉,　張 潮
+[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-8, pp.975-978, 2025
+
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
@@ -53,6 +57,8 @@ Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang
 [メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
 [**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)
 
+# 査読中
+a
 
 ## 資格
 * 2024年4月　TOEIC Listening & Reading Test 865点　取得  

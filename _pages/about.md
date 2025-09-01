@@ -58,7 +58,11 @@ Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang
 [**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)
 
 ### 査読中
-a
+[2] [**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**](https://arxiv.org/abs/2508.17726)  
+**Koichiro Kamide**,　Shunsuke Sakai,　Shun Maeda,　Chunzhi Gu,　Chao Zhang  
+
+[1] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://arxiv.org/abs/2507.13110)  
+Zi Wang,　Katsuya Hotta,　**Koichiro Kamide**,　Yawen Zou,　Chao Zhang,　Jun Yu
 
 ## 資格
 * 2024年4月　TOEIC Listening & Reading Test 865点　取得  

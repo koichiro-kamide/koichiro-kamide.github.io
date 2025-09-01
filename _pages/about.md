@@ -44,18 +44,19 @@ redirect_from:
 [電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-8, pp.975-978, 2025
 
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
-Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang  
+Yu Ding, **Koichiro Kamide**, Jun Yu, Chao Zhang  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
 [**Best Paper Award受賞**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)
 
 [2] **One-Model-All-Category Human Action Anomaly Detection**  
-**Koichiro KAMIDE**,  Chunzhi GU,  Shun MAEDA,  Jun YU,  Chao ZHANG  
+**Koichiro Kamide**, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang  
 [動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/), IS2-30, pp.356-360, 2025
 
 [1] **Few-shot三次元人物動作異常検知**  
-**上出 耕一郎**,  顧 淳祉,  前田 駿,  余 俊,  張 潮  
+**上出 耕一郎**, 顧 淳祉, 前田 駿, 余 俊, 張 潮  
 [メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
 [**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)
+
 
 ### 査読中
 [2] [**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**](https://arxiv.org/abs/2508.17726)  
@@ -63,6 +64,7 @@ Yu Ding,  **Koichiro Kamide**,  Jun Yu,  Chao Zhang
 
 [1] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://arxiv.org/abs/2507.13110)  
 Zi Wang, Katsuya Hotta, **Koichiro Kamide**, Yawen Zou, Chao Zhang, Jun Yu
+
 
 ## 資格
 * 2024年4月　TOEIC Listening & Reading Test 865点　取得  

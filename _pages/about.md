@@ -40,7 +40,7 @@ redirect_from:
 
 ## 研究業績
 [4] **データ拡張を用いた人物動作異常検知**  
-**上出　耕一郎**　前田 駿　坂井 俊介,　顧 淳祉,　張 潮
+**上出 耕一郎**,　前田 駿,　坂井 俊介,　顧 淳祉,　張 潮  
 [電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-8, pp.975-978, 2025
 
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  

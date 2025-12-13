@@ -39,8 +39,13 @@ redirect_from:
 
 
 ## 研究業績
-[5] [**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
-**Koichiro Kamide**, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang, Knowledge-Based Systems, 2026 (accepted)  
+[6] [**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
+**Koichiro Kamide**, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
+Knowledge-Based Systems, 2026 (accepted)
+
+[5] **相互作用を意識した複数人物の動作異常検知**  
+前田 駿, 顧 淳祉, **上出 耕一郎**, 東海 彰吾, 張 潮  
+電気学会電子・情報・システム部門大会, OS4-2-9, 2025
 
 [4] **データ拡張を用いた人物動作異常検知**  
 **上出 耕一郎**, 前田 駿, 坂井 俊介, 顧 淳祉, 張 潮  

@@ -41,7 +41,7 @@ redirect_from:
 ## 研究業績
 [6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
 **Koichiro Kamide**, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
-[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems), 2026 (accepted)
+[**Knowledge-Based Systems** (IF=7.6)](https://www.sciencedirect.com/journal/knowledge-based-systems), 2026 (accepted)
 
 [5] **相互作用を意識した複数人物の動作異常検知**  
 前田 駿, 顧 淳祉, **上出 耕一郎**, 東海 彰吾, 張 潮  

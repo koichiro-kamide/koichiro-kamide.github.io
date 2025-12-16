@@ -67,6 +67,9 @@ Yu Ding, **Koichiro Kamide**, Jun Yu, Chao Zhang
 
 
 ### 査読中
+[2] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
+Shun Maeda, Chunzhi Gu, **Koichiro Kamide**, Katsuya Hotta, Shangce Gao, Chao Zhang
+
 [1] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://arxiv.org/abs/2507.13110)  
 Zi Wang, Katsuya Hotta, **Koichiro Kamide**, Yawen Zou, Chao Zhang, Jun Yu
 

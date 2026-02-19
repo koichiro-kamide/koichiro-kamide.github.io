@@ -39,6 +39,10 @@ redirect_from:
 
 
 ## 研究業績
+[7] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://github.com/bigbearbear520/3DKeyAD)  
+Zi Wang, Katsuya Hotta, **Koichiro Kamide**, Yawen Zou, Chao Zhang, Jun Yu,  
+IEICE transactions on information and systems, Vol.E109-D, No.8, 2026
+
 [6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
 **Koichiro Kamide**, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
 [**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red; ">**Impact Factor 2024=7.6**</span>), Volume 334, 115133, 2026
@@ -67,11 +71,8 @@ Yu Ding, **Koichiro Kamide**, Jun Yu, Chao Zhang
 
 
 ### 査読中
-[2] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
+[1] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
 Shun Maeda, Chunzhi Gu, **Koichiro Kamide**, Katsuya Hotta, Shangce Gao, Chao Zhang
-
-[1] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://arxiv.org/abs/2507.13110)  
-Zi Wang, Katsuya Hotta, **Koichiro Kamide**, Yawen Zou, Chao Zhang, Jun Yu
 
 
 ## 資格

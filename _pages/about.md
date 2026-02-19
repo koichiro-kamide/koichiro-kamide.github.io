@@ -43,9 +43,10 @@ redirect_from:
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,  
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, 2026
 
-[6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689) [[code]](https://github.com/koichiro-kamide/Few-shotHAAD)  
+[6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
 <u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
-[**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red; ">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026
+[**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red; ">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026  
+The code is available on [here](https://github.com/koichiro-kamide/Few-shotHAAD).
 
 [5] **相互作用を意識した複数人物の動作異常検知**  
 前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮  

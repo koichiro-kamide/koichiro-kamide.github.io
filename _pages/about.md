@@ -73,7 +73,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 
 ### 査読中
 [1] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
-Shun Maeda, Chunzhi Gu, **Koichiro Kamide**, Katsuya Hotta, Shangce Gao, Chao Zhang
+Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao Zhang
 
 
 ## 資格

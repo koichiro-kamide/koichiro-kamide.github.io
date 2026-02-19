@@ -48,7 +48,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,
 [**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red; ">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026
 
 [5] **相互作用を意識した複数人物の動作異常検知**  
-前田駿, 顧淳祉, **上出耕一郎**, 東海彰吾, 張潮  
+前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮  
 [電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-9, pp. 979-982, 2025
 
 [4] **データ拡張を用いた人物動作異常検知**  

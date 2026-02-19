@@ -75,12 +75,12 @@ Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao
 
 
 ### 受賞
-[2] [**Best Paper Award受賞**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)  
+[2] [**Best Paper Award**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)  
 **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
 
-[1] [**研究奨励賞受賞**](https://www.ite.or.jp/study/me/files/award.html)  
+[1] [**研究奨励賞**](https://www.ite.or.jp/study/me/files/award.html)  
 **Few-shot三次元人物動作異常検知**  
 <u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮  
 [メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  

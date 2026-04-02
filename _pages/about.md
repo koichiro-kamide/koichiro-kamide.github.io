@@ -41,15 +41,15 @@ redirect_from:
 ## 研究業績
 [10] **Human Action Recognition via Dataset Condensation**  
 Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,  
-NICOGRAPH International (NicoInt), 2026 (accepted)
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
 
 [9] **Topology-Aware Multi-Scale Learning for Skeleton-Based Human Action Anomaly Detection**  
 Shun Maeda, Yijin Wei, <u>Koichiro Kamide</u>, Shogo Tokai, Chunzhi Gu, Chao Zhang,  
-NICOGRAPH International (NicoInt), 2026 (accepted)
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
 
 [8] **Human Action Anomaly Detection via Spatial-Temporal Transformer Network**  
 Kousuke Yamamoto, <u>Koichiro Kamide</u>, Yijin Wei, Chunzhi Gu, Chao Zhang,  
-NICOGRAPH International (NicoInt), 2026 (accepted)
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
 
 [7] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://github.com/bigbearbear520/3DKeyAD)  
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,  

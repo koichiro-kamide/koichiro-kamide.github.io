@@ -42,7 +42,7 @@ redirect_from:
 [10] **Human Action Recognition via Dataset Condensation**  
 Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang, NICOGRAPH International (NicoInt), 2026 (accepted)
 
-[9] **Topology-Aware Multi-Scale Learning for Skeleton-Based Human Action Anomaly Detection**
+[9] **Topology-Aware Multi-Scale Learning for Skeleton-Based Human Action Anomaly Detection**  
 Shun Maeda, Yijin Wei, <u>Koichiro Kamide</u>, Shogo Tokai, Chunzhi Gu, Chao Zhang, NICOGRAPH International (NicoInt), 2026 (accepted)
 
 [8] **Human Action Anomaly Detection via Spatial-Temporal Transformer Network**  

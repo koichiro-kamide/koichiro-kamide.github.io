@@ -55,9 +55,10 @@ Shun Maeda, Yijin Wei, <u>Koichiro Kamide</u>, Shogo Tokai, Chunzhi Gu, Chao Zha
 Kousuke Yamamoto, <u>Koichiro Kamide</u>, Yijin Wei, Chunzhi Gu, Chao Zhang,  
 [NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
 
-[7] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://github.com/bigbearbear520/3DKeyAD)  
+[7] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDP7152/_article)  
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,  
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026
+The code is available on [here](https://github.com/bigbearbear520/3DKeyAD).
 
 [6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
 <u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
@@ -90,7 +91,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao Zhang
 
 
-### 受賞
+## 受賞
 [2] [**Best Paper Award**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)  
 **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang  

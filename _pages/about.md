@@ -39,6 +39,10 @@ redirect_from:
 
 
 ## 研究業績
+[11] **Image Anomaly Detection with Foreground-Aware Anomaly Synthesis**  
+Shohei Fuwa, <u>Koichiro Kamide</u>, Chunzhi Gu, Chao Zhang  
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
+
 [10] **Human Action Recognition via Dataset Condensation**  
 Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,  
 [NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)

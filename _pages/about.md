@@ -87,6 +87,9 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 
 
 ### 査読中
+[2] [**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**](https://arxiv.org/abs/2602.10806)  
+Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu
+
 [1] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
 Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao Zhang
 

@@ -66,23 +66,23 @@ The code is available on [here](https://github.com/bigbearbear520/3DKeyAD).
 The code is available on [here](https://github.com/koichiro-kamide/Few-shotHAAD).
 
 [5] **相互作用を意識した複数人物の動作異常検知**  
-前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮  
+前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮,  
 [電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-9, pp. 979-982, 2025
 
 [4] **データ拡張を用いた人物動作異常検知**  
-<u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮  
+<u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮,  
 [電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-8, pp. 975-978, 2025
 
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
-Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang  
+Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
 
 [2] **One-Model-All-Category Human Action Anomaly Detection**  
-<u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang  
+<u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,  
 [動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/), IS2-30, pp. 356-360, 2025
 
 [1] **Few-shot三次元人物動作異常検知**  
-<u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮  
+<u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,  
 [メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
 
 

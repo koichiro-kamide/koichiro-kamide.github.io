@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## 研究業績
-[13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)
+[13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  
 Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,
 [**International Conference on Machine Vision (ICMV)**](https://icmv.org/), 2026 (accepted)
 

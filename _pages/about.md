@@ -2,43 +2,92 @@
 permalink: /
 title: 自己紹介
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<style>
+  .language-switcher {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0 0 1.5rem;
+  }
+
+  .language-switcher button {
+    padding: 0.35rem 0.8rem;
+    border: 1px solid #7a8288;
+    border-radius: 999px;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+
+  .language-switcher button:hover,
+  .language-switcher button:focus-visible {
+    border-color: #2a7ae2;
+    outline: none;
+  }
+
+  .language-switcher button[aria-pressed="true"] {
+    border-color: #2a7ae2;
+    background: #2a7ae2;
+    color: #fff;
+  }
+</style>
+
+<nav class="language-switcher" aria-label="Language selection">
+  <button type="button" data-language-button="ja" aria-pressed="true">日本語</button>
+  <button type="button" data-language-button="zh" aria-pressed="false">中文</button>
+  <button type="button" data-language-button="en" aria-pressed="false">English</button>
+</nav>
+
+<div data-language-block="ja" lang="ja" markdown="1">
 富山大学理工学研究科M2の上出耕一郎です。  
 [張研究室](https://www.labzhang.com/)にて異常検知に関する研究に取り組んでいます。
 
 ## 学歴
-* 2025年4月-現在　富山大学 理工学研究科  
-* 2021年4月-2025年3月　富山大学 工学部  
-
-<!-- 
-* 2025年4月 - 現在 富山大学 理工学研究科博士前期課程 理工学専攻 数理情報学プログラム  
-* 2021年4月 - 2025年3月 富山大学 工学部 工学科 知能情報工学コース  
--->
-
-<!-- 
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 18px;">
-  <tr>
-    <td style="width:40%; vertical-align: top; border: none;">2025年4月 - 現在</td>
-    <td style="width:60%; text-align: left; vertical-align: top; border: none;">富山大学 理工学研究科</td>
-  </tr>
-  <tr>
-    <td style="width:40%; vertical-align: top; border: none;">2021年4月 - 2025年3月</td>
-    <td style="width:60%; text-align: left; vertical-align: top; border: none;">富山大学 工学部</td>
-  </tr>
-</table>
--->
-
+* 2025年4月–現在　富山大学 理工学研究科
+* 2021年4月–2025年3月　富山大学 工学部
 
 ## 研究分野
-[](Deep Learning,　Computer Vision,　Anomaly Detection,　Human Motion,　etc.)
 深層学習、コンピュータビジョン、異常検知、人物動作など
+</div>
 
+<div data-language-block="zh" lang="zh-CN" hidden markdown="1">
+我是富山大学理工学研究科硕士二年级学生上出耕一郎。<br>
+目前在[张研究室](https://www.labzhang.com/)从事异常检测研究。
 
-## 研究業績
+## 教育经历
+* 2025年4月–至今　富山大学 理工学研究科
+* 2021年4月–2025年3月　富山大学 工学部
+
+## 研究方向
+深度学习、计算机视觉、异常检测、人体动作等
+</div>
+
+<div data-language-block="en" lang="en" hidden markdown="1">
+I am Koichiro Kamide, a second-year master's student at the Graduate School of Science and Engineering, University of Toyama.<br>
+I conduct research on anomaly detection in the [Zhang Laboratory](https://www.labzhang.com/).
+
+## Education
+* April 2025–Present: Graduate School of Science and Engineering, University of Toyama
+* April 2021–March 2025: Faculty of Engineering, University of Toyama
+
+## Research Interests
+Deep learning, computer vision, anomaly detection, human motion, and related topics
+</div>
+
+<h2>
+  <span data-language-text="ja">研究業績</span>
+  <span data-language-text="zh" lang="zh-CN" hidden>研究成果</span>
+  <span data-language-text="en" lang="en" hidden>Publications</span>
+</h2>
+
 [13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  
 Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,  
 [**International Conference on Machine Vision (ICMV)**](https://icmv.org/), 2026 (accepted)
@@ -66,53 +115,170 @@ Kousuke Yamamoto, <u>Koichiro Kamide</u>, Yijin Wei, Chunzhi Gu, Chao Zhang,
 [7] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDP7152/_article)  
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,  
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026  
-The code is available on [here](https://github.com/bigbearbear520/3DKeyAD).
+<span data-language-text="ja">コードは[こちら](https://github.com/bigbearbear520/3DKeyAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN" hidden>代码已发布于[此处](https://github.com/bigbearbear520/3DKeyAD)。</span><span data-language-text="en" lang="en" hidden>The code is available [here](https://github.com/bigbearbear520/3DKeyAD).</span>
 
 [6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
 <u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
-[**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red; ">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026  
-The code is available on [here](https://github.com/koichiro-kamide/Few-shotHAAD).
+[**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red;">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026<br>
+<span data-language-text="ja">コードは[こちら](https://github.com/koichiro-kamide/Few-shotHAAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN" hidden>代码已发布于[此处](https://github.com/koichiro-kamide/Few-shotHAAD)。</span><span data-language-text="en" lang="en" hidden>The code is available [here](https://github.com/koichiro-kamide/Few-shotHAAD).</span>
 
-[5] **相互作用を意識した複数人物の動作異常検知**  
-前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮,  
-[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-9, pp. 979-982, 2025
+[5]
+<span data-language-text="ja">**相互作用を意識した複数人物の動作異常検知**</span>
+<span data-language-text="zh" lang="zh-CN" hidden>**面向交互关系的多人动作异常检测**</span>
+<span data-language-text="en" lang="en" hidden>**Multi-Person Action Anomaly Detection Considering Human Interactions**</span><br>
+<span data-language-text="ja">前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮,</span>
+<span data-language-text="zh" lang="zh-CN" hidden>Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span>
+<span data-language-text="en" lang="en" hidden>Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span><br>
+<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN" hidden>[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en" hidden>[Annual Conference of the IEEJ Electronics, Information and Systems Society](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-9, pp. 979-982, 2025
 
-[4] **データ拡張を用いた人物動作異常検知**  
-<u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮,  
-[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-8, pp. 975-978, 2025
+[4]
+<span data-language-text="ja">**データ拡張を用いた人物動作異常検知**</span>
+<span data-language-text="zh" lang="zh-CN" hidden>**基于数据增强的人体动作异常检测**</span>
+<span data-language-text="en" lang="en" hidden>**Human Action Anomaly Detection Using Data Augmentation**</span><br>
+<span data-language-text="ja"><u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮,</span>
+<span data-language-text="zh" lang="zh-CN" hidden><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span>
+<span data-language-text="en" lang="en" hidden><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span><br>
+<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN" hidden>[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en" hidden>[Annual Conference of the IEEJ Electronics, Information and Systems Society](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-8, pp. 975-978, 2025
 
 [3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,  
-[Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
+[Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
 
 [2] **One-Model-All-Category Human Action Anomaly Detection**  
-<u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,  
-[動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/), IS2-30, pp. 356-360, 2025
+<span data-language-text="ja"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
+<span data-language-text="zh" lang="zh-CN" hidden><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
+<span data-language-text="en" lang="en" hidden><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
+<span data-language-text="ja">[動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="zh" lang="zh-CN" hidden>[动态影像处理实际应用化研讨会 (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="en" lang="en" hidden>[Dynamic Image Processing for Real Application Workshop (DIA)](https://www.tc-iaip.org/dia/2025/)</span>, IS2-30, pp. 356-360, 2025
 
-[1] **Few-shot三次元人物動作異常検知**  
-<u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,  
-[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
+[1]
+<span data-language-text="ja">**Few-shot三次元人物動作異常検知**</span>
+<span data-language-text="zh" lang="zh-CN" hidden>**少样本三维人体动作异常检测**</span>
+<span data-language-text="en" lang="en" hidden>**Few-Shot 3D Human Action Anomaly Detection**</span><br>
+<span data-language-text="ja"><u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,</span>
+<span data-language-text="zh" lang="zh-CN" hidden><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
+<span data-language-text="en" lang="en" hidden><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
+<span data-language-text="ja">[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="zh" lang="zh-CN" hidden>[媒体工程研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="en" lang="en" hidden>[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
 
+<h3>
+  <span data-language-text="ja">査読中</span>
+  <span data-language-text="zh" lang="zh-CN" hidden>审稿中</span>
+  <span data-language-text="en" lang="en" hidden>Under Review</span>
+</h3>
 
-### 査読中
 [1] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
 Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao Zhang
 
+<h2>
+  <span data-language-text="ja">受賞</span>
+  <span data-language-text="zh" lang="zh-CN" hidden>获奖</span>
+  <span data-language-text="en" lang="en" hidden>Awards</span>
+</h2>
 
-## 受賞
 [2] [**Best Paper Award**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)  
 **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
 Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang  
-[Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025  
+[Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
 
-[1] [**研究奨励賞**](https://www.ite.or.jp/study/me/files/award.html)  
-**Few-shot三次元人物動作異常検知**  
-<u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮  
-[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025  
+[1]
+<span data-language-text="ja">[**研究奨励賞**](https://www.ite.or.jp/study/me/files/award.html)</span>
+<span data-language-text="zh" lang="zh-CN" hidden>[**研究鼓励奖**](https://www.ite.or.jp/study/me/files/award.html)</span>
+<span data-language-text="en" lang="en" hidden>[**Research Encouragement Award**](https://www.ite.or.jp/study/me/files/award.html)</span><br>
+<span data-language-text="ja">**Few-shot三次元人物動作異常検知**</span>
+<span data-language-text="zh" lang="zh-CN" hidden>**少样本三维人体动作异常检测**</span>
+<span data-language-text="en" lang="en" hidden>**Few-Shot 3D Human Action Anomaly Detection**</span><br>
+<span data-language-text="ja"><u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮</span>
+<span data-language-text="zh" lang="zh-CN" hidden><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang</span>
+<span data-language-text="en" lang="en" hidden><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang</span><br>
+<span data-language-text="ja">[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="zh" lang="zh-CN" hidden>[媒体工程研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="en" lang="en" hidden>[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
 
-
+<div data-language-block="ja" lang="ja" markdown="1">
 ## 資格
-* 2024年4月　TOEIC Listening & Reading Test 865点　取得  
-* 2023年6月　応用情報技術者試験　合格  
-* 2023年6月　基本情報技術者試験　合格  
-* 2022年2月　第二種電気工事士　取得  
+* 2024年4月　TOEIC Listening & Reading Test 865点　取得
+* 2023年6月　応用情報技術者試験　合格
+* 2023年6月　基本情報技術者試験　合格
+* 2022年2月　第二種電気工事士　取得
+</div>
+
+<div data-language-block="zh" lang="zh-CN" hidden markdown="1">
+## 资格证书
+* 2024年4月　TOEIC Listening & Reading Test 865分
+* 2023年6月　通过应用信息技术者考试
+* 2023年6月　通过基本信息技术者考试
+* 2022年2月　取得第二种电气工事士资格
+</div>
+
+<div data-language-block="en" lang="en" hidden markdown="1">
+## Qualifications
+* April 2024: TOEIC Listening & Reading Test — Score: 865
+* June 2023: Passed the Applied Information Technology Engineer Examination
+* June 2023: Passed the Fundamental Information Technology Engineer Examination
+* February 2022: Obtained a Second-Class Electrician License
+</div>
+
+<script>
+  (function () {
+    var supportedLanguages = ["ja", "zh", "en"];
+    var titles = {
+      ja: "自己紹介",
+      zh: "自我介绍",
+      en: "About Me"
+    };
+    var params = new URLSearchParams(window.location.search);
+    var requestedLanguage = params.get("lang");
+    var savedLanguage = null;
+
+    try {
+      savedLanguage = window.localStorage.getItem("about-language");
+    } catch (error) {
+      savedLanguage = null;
+    }
+
+    function selectLanguage(language, updateUrl) {
+      if (supportedLanguages.indexOf(language) === -1) {
+        language = "ja";
+      }
+
+      document.querySelectorAll("[data-language-block], [data-language-text]").forEach(function (element) {
+        var elementLanguage = element.getAttribute("data-language-block") || element.getAttribute("data-language-text");
+        element.hidden = elementLanguage !== language;
+      });
+
+      document.querySelectorAll("[data-language-button]").forEach(function (button) {
+        button.setAttribute("aria-pressed", String(button.getAttribute("data-language-button") === language));
+      });
+
+      document.documentElement.lang = language === "zh" ? "zh-CN" : language;
+
+      var pageTitle = document.querySelector(".page__title");
+      if (pageTitle) {
+        pageTitle.textContent = titles[language];
+      }
+      document.title = titles[language] + " - {{ site.title | escape }}";
+
+      try {
+        window.localStorage.setItem("about-language", language);
+      } catch (error) {
+        // The language switch still works when browser storage is unavailable.
+      }
+
+      if (updateUrl && window.history && window.history.replaceState) {
+        var url = new URL(window.location.href);
+        url.searchParams.set("lang", language);
+        window.history.replaceState({}, "", url);
+      }
+    }
+
+    document.querySelectorAll("[data-language-button]").forEach(function (button) {
+      button.addEventListener("click", function () {
+        selectLanguage(button.getAttribute("data-language-button"), true);
+      });
+    });
+
+    selectLanguage(
+      supportedLanguages.indexOf(requestedLanguage) !== -1
+        ? requestedLanguage
+        : (supportedLanguages.indexOf(savedLanguage) !== -1 ? savedLanguage : "ja"),
+      false
+    );
+  }());
+</script>

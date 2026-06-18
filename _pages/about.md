@@ -40,11 +40,11 @@ redirect_from:
 
 ## 研究業績
 [13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  
-Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,
+Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,  
 [**International Conference on Machine Vision (ICMV)**](https://icmv.org/), 2026 (accepted)
 
 [12] [**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)  
-Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,
+Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,  
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. xx, No. xx, pp. xx-xx, 2026
 
 [11] **Image Anomaly Detection with Foreground-Aware Anomaly Synthesis**  

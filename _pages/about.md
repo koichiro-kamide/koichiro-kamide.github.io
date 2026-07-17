@@ -166,7 +166,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<b
 
 <h3>
   <span data-language-text="ja">国際会議</span>
-  <span data-language-text="zh" lang="zh-CN">国际会议</span>
+  <span data-language-text="zh" lang="zh-CN">国际学术会议</span>
   <span data-language-text="en" lang="en">International Conferences</span>
 </h3>
 

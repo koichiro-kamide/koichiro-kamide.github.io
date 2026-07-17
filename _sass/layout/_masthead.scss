@@ -66,12 +66,13 @@
   }
 }
 
-.greedy-nav .visible-links li.masthead__language-switch {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 0.25rem;
+.greedy-nav .visible-links {
   width: 100%;
+}
+
+.greedy-nav .visible-links li.masthead__language-switch {
+  display: table-cell;
+  width: 1%;
   padding-left: 1rem;
   text-align: right;
   white-space: nowrap;
@@ -80,7 +81,7 @@
 .greedy-nav .masthead__language-switch .masthead__language-link {
   display: inline-flex;
   align-items: center;
-  margin: 0;
+  margin: 0 0 0 0.25rem;
   padding: 0.2rem 0.45rem;
   border: 1px solid var(--global-border-color);
   border-radius: 999px;

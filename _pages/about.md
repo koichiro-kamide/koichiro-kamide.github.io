@@ -200,8 +200,8 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 <h3>
   <span data-language-text="ja">国内会議</span>
-  <span data-language-text="zh" lang="zh-CN">国内会议</span>
-  <span data-language-text="en" lang="en">Domestic Conferences</span>
+  <span data-language-text="zh" lang="zh-CN">日本国内学术会议</span>
+  <span data-language-text="en" lang="en">Domestic Conferences in Japan</span>
 </h3>
 
 [3]

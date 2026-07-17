@@ -278,20 +278,24 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 </details>
 
-<h3>
+<details class="publication-category" markdown="1">
+<summary>
   <span data-language-text="ja">査読中</span>
   <span data-language-text="zh" lang="zh-CN">审稿中</span>
   <span data-language-text="en" lang="en">Under Review</span>
-</h3>
+</summary>
 
 [1] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
 Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao Zhang
 
-<h2>
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>
   <span data-language-text="ja">受賞</span>
   <span data-language-text="zh" lang="zh-CN">获奖</span>
   <span data-language-text="en" lang="en">Awards</span>
-</h2>
+</summary>
 
 [3] [**Short Paper Award**](https://www.art-science.org/nicograph/nicoint2026/#nicoint2026-awards:~:text=and%20Haoran%20Xie-,Short%20Paper%20Award,-Human%20Action%20Recognition)  
 **Human Action Recognition via Dataset Condensation**,  
@@ -315,8 +319,16 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang</span><br>
 <span data-language-text="ja">[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="zh" lang="zh-CN">[媒体工程研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="en" lang="en">[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
 
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>
+  <span data-language-text="ja">資格</span>
+  <span data-language-text="zh" lang="zh-CN">资格证书</span>
+  <span data-language-text="en" lang="en">Qualifications</span>
+</summary>
+
 <div data-language-block="ja" lang="ja" markdown="1">
-## 資格
 * 2024年4月　TOEIC Listening & Reading Test 865点　取得
 * 2023年6月　応用情報技術者試験　合格
 * 2023年6月　基本情報技術者試験　合格
@@ -324,7 +336,6 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 </div>
 
 <div data-language-block="zh" lang="zh-CN" markdown="1">
-## 资格证书
 * 2024年4月　TOEIC Listening & Reading Test 865分
 * 2023年6月　通过应用信息技术者考试
 * 2023年6月　通过基本信息技术者考试
@@ -332,12 +343,13 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 </div>
 
 <div data-language-block="en" lang="en" markdown="1">
-## Qualifications
 * April 2024: TOEIC Listening & Reading Test — Score: 865
 * June 2023: Passed the Applied Information Technology Engineer Examination
 * June 2023: Passed the Fundamental Information Technology Engineer Examination
 * February 2022: Obtained a Second-Class Electrician License
 </div>
+
+</details>
 
 </div>
 </div>

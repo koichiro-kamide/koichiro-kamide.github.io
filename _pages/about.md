@@ -144,6 +144,10 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
   <span data-language-text="en" lang="en">Publications</span>
 </h2>
 
+[14] **Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**  
+Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,
+[**14th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)**](https://sites.google.com/view/mmac-acii-2026/overview?authuser=0), 2026 (accepted)
+
 [13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  
 Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,  
 [**International Conference on Machine Vision (ICMV)**](https://icmv.org/), 2026 (accepted)
@@ -229,6 +233,11 @@ Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao
   <span data-language-text="zh" lang="zh-CN">获奖</span>
   <span data-language-text="en" lang="en">Awards</span>
 </h2>
+
+[3] [**Short Paper Award**](https://www.art-science.org/nicograph/nicoint2026/#nicoint2026-awards:~:text=and%20Haoran%20Xie-,Short%20Paper%20Award,-Human%20Action%20Recognition)
+**Human Action Recognition via Dataset Condensation**,  
+Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,  
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026
 
 [2] [**Best Paper Award**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)  
 **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  

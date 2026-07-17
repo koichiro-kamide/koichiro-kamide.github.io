@@ -307,7 +307,7 @@ Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,
 
 [2] [**Best Paper Award**](https://www.tc-iaip.org/qcav/2025/#:~:text=S5%2D4%E2%80%83Dynamically%20Adaptive%20Negative%20Pairs%20for%20Contrastive%20Multi%2DView%20Clustering)  
 **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
-Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang  
+Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,  
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
 
 [1]

@@ -322,27 +322,27 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 </details>
 
 <div data-language-block="ja" lang="ja" markdown="1">
-## 資格
-* 2024年4月　TOEIC Listening & Reading Test 865点　取得
-* 2023年6月　応用情報技術者試験　合格
-* 2023年6月　基本情報技術者試験　合格
+## 資格・試験
+* 2024年4月　TOEIC Listening & Reading Test　865点
+* 2023年6月　応用情報技術者試験（AP）　合格
+* 2023年6月　基本情報技術者試験（FE）　合格
 * 2022年2月　第二種電気工事士　取得
 </div>
 
 <div data-language-block="zh" lang="zh-CN" markdown="1">
-## 资格证书
-* 2024年4月　TOEIC Listening & Reading Test 865分
-* 2023年6月　通过应用信息技术者考试
-* 2023年6月　通过基本信息技术者考试
-* 2022年2月　取得第二种电气工事士资格
+## 资格证书与考试成绩
+* 2024年4月　TOEIC Listening & Reading Test：865分
+* 2023年6月　通过日本应用信息技术工程师考试（AP）
+* 2023年6月　通过日本基本信息技术工程师考试（FE）
+* 2022年2月　取得日本第二种电气工事士资格
 </div>
 
 <div data-language-block="en" lang="en" markdown="1">
-## Qualifications
+## Certifications and Test Scores
 * April 2024: TOEIC Listening & Reading Test — Score: 865
-* June 2023: Passed the Applied Information Technology Engineer Examination
-* June 2023: Passed the Fundamental Information Technology Engineer Examination
-* February 2022: Obtained a Second-Class Electrician License
+* June 2023: Passed Japan's Applied Information Technology Engineer Examination (AP)
+* June 2023: Passed Japan's Fundamental Information Technology Engineer Examination (FE)
+* February 2022: Obtained a Class 2 Electrician License in Japan
 </div>
 
 </div>

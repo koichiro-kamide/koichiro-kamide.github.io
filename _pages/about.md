@@ -88,6 +88,29 @@ redirect_from:
   #about-lang-en:target ~ .about-language-content [data-language-text="en"] {
     display: inline !important;
   }
+
+  .publication-category {
+    margin: 1rem 0;
+    border: 1px solid #e5e5e5;
+    border-radius: 0.35rem;
+    padding: 0.25rem 0.75rem;
+  }
+
+  .publication-category summary {
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0.35rem 0;
+  }
+
+  .publication-category summary:hover,
+  .publication-category summary:focus-visible {
+    color: #2a7ae2;
+  }
+
+  .publication-category[open] summary {
+    margin-bottom: 1rem;
+  }
 </style>
 
 <div class="about-language-page" markdown="1">
@@ -144,11 +167,12 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
   <span data-language-text="en" lang="en">Publications</span>
 </h2>
 
-<h3>
+<details class="publication-category" markdown="1">
+<summary>
   <span data-language-text="ja">学術雑誌</span>
   <span data-language-text="zh" lang="zh-CN">学术期刊</span>
   <span data-language-text="en" lang="en">Journal Articles</span>
-</h3>
+</summary>
 
 [3] [**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)<br>
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,<br>
@@ -164,11 +188,14 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<b
 [**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red;">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026<br>
 <span data-language-text="ja">コードは[こちら](https://github.com/koichiro-kamide/Few-shotHAAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN">代码已发布于[此处](https://github.com/koichiro-kamide/Few-shotHAAD)。</span><span data-language-text="en" lang="en">The code is available [here](https://github.com/koichiro-kamide/Few-shotHAAD).</span>
 
-<h3>
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>
   <span data-language-text="ja">国際会議</span>
   <span data-language-text="zh" lang="zh-CN">国际学术会议</span>
   <span data-language-text="en" lang="en">International Conferences</span>
-</h3>
+</summary>
 
 [7] **Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**  
 Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,  
@@ -198,11 +225,14 @@ Kousuke Yamamoto, <u>Koichiro Kamide</u>, Yijin Wei, Chunzhi Gu, Chao Zhang,
 Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
 
-<h3>
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>
   <span data-language-text="ja">国内会議</span>
   <span data-language-text="zh" lang="zh-CN">日本国内学术会议</span>
   <span data-language-text="en" lang="en">Domestic Conferences in Japan</span>
-</h3>
+</summary>
 
 [3]
 <span data-language-text="ja">**相互作用を意識した複数人物の動作異常検知**</span>
@@ -228,11 +258,14 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
 <span data-language-text="ja">[動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="zh" lang="zh-CN">[动态影像处理实际应用化研讨会 (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="en" lang="en">[Dynamic Image Processing for Real Application Workshop (DIA)](https://www.tc-iaip.org/dia/2025/)</span>, IS2-30, pp. 356-360, 2025
 
-<h3>
+</details>
+
+<details class="publication-category" markdown="1">
+<summary>
   <span data-language-text="ja">研究会</span>
   <span data-language-text="zh" lang="zh-CN">日本国内学术研讨会</span>
   <span data-language-text="en" lang="en">Technical Meetings in Japan</span>
-</h3>
+</summary>
 
 [1]
 <span data-language-text="ja">**Few-shot三次元人物動作異常検知**</span>
@@ -242,6 +275,8 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 <span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
 <span data-language-text="ja">[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="zh" lang="zh-CN">[媒体工程研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="en" lang="en">[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
+
+</details>
 
 <h3>
   <span data-language-text="ja">査読中</span>

@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 <style>
+  .language-switcher {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0 0 1.5rem;
+  }
+
   .about-language-target {
     position: absolute;
     width: 1px;
@@ -15,6 +22,41 @@ redirect_from:
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
     scroll-margin-top: 6rem;
+  }
+
+  .language-switcher a {
+    padding: 0.35rem 0.8rem;
+    border: 1px solid #7a8288;
+    border-radius: 999px;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    text-decoration: none;
+  }
+
+  .language-switcher a:hover,
+  .language-switcher a:focus-visible {
+    border-color: #2a7ae2;
+    text-decoration: none;
+  }
+
+  .language-switcher a[data-language-link="ja"],
+  #about-lang-ja:target ~ .language-switcher a[data-language-link="ja"],
+  #about-lang-zh:target ~ .language-switcher a[data-language-link="zh"],
+  #about-lang-en:target ~ .language-switcher a[data-language-link="en"] {
+    border-color: #2a7ae2;
+    background: #2a7ae2;
+    color: #fff;
+  }
+
+  #about-lang-zh:target ~ .language-switcher a[data-language-link="ja"],
+  #about-lang-en:target ~ .language-switcher a[data-language-link="ja"] {
+    border-color: #7a8288;
+    background: transparent;
+    color: inherit;
   }
 
   .about-language-content [data-language-block],
@@ -75,6 +117,12 @@ redirect_from:
 <div class="about-language-target" id="about-lang-ja" aria-hidden="true"></div>
 <div class="about-language-target" id="about-lang-zh" aria-hidden="true"></div>
 <div class="about-language-target" id="about-lang-en" aria-hidden="true"></div>
+
+<nav class="language-switcher" aria-label="Language selection">
+  <a href="#about-lang-ja" data-language-link="ja" lang="ja">日本語</a>
+  <a href="#about-lang-zh" data-language-link="zh" lang="zh-CN">中文</a>
+  <a href="#about-lang-en" data-language-link="en" lang="en">English</a>
+</nav>
 
 <div class="about-language-content" markdown="1">
 <div data-language-block="ja" lang="ja" markdown="1">

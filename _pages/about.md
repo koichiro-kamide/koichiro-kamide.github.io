@@ -230,8 +230,8 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 <h3>
   <span data-language-text="ja">研究会</span>
-  <span data-language-text="zh" lang="zh-CN">研究会</span>
-  <span data-language-text="en" lang="en">Research Meetings</span>
+  <span data-language-text="zh" lang="zh-CN">日本国内学术研讨会</span>
+  <span data-language-text="en" lang="en">Technical Meetings in Japan</span>
 </h3>
 
 [1]

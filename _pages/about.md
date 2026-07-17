@@ -274,7 +274,9 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 <span data-language-text="ja"><u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,</span>
 <span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
-<span data-language-text="ja">[メディア工学研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="zh" lang="zh-CN">[媒体工程研究会 (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span><span data-language-text="en" lang="en">[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
+<span data-language-text="ja">[メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>
+<span data-language-text="zh" lang="zh-CN">[媒体工程研究组（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>
+<span data-language-text="en" lang="en">[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
 
 </details>
 

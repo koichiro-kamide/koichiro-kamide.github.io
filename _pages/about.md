@@ -236,12 +236,12 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 [3]
 <span data-language-text="ja">**相互作用を意識した複数人物の動作異常検知**</span>
-<span data-language-text="zh" lang="zh-CN">**面向交互关系的多人动作异常检测**</span>
-<span data-language-text="en" lang="en">**Multi-Person Action Anomaly Detection Considering Human Interactions**</span><br>
+<span data-language-text="zh" lang="zh-CN">**考虑人物间交互的多人动作异常检测**</span>
+<span data-language-text="en" lang="en">**Interaction-Aware Multi-Person Action Anomaly Detection**</span><br>
 <span data-language-text="ja">前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮,</span>
 <span data-language-text="zh" lang="zh-CN">Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span>
 <span data-language-text="en" lang="en">Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span><br>
-<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference of the IEEJ Electronics, Information and Systems Society](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-9, pp. 979-982, 2025
+<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference on Electronics, Information and Systems, IEEJ](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-9, pp. 979–982, 2025
 
 [2]
 <span data-language-text="ja">**データ拡張を用いた人物動作異常検知**</span>
@@ -250,13 +250,14 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 <span data-language-text="ja"><u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮,</span>
 <span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span>
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span><br>
-<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference of the IEEJ Electronics, Information and Systems Society](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-8, pp. 975-978, 2025
+<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference on Electronics, Information and Systems, IEEJ](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-8, pp. 975–978, 2025
 
-[1] **One-Model-All-Category Human Action Anomaly Detection**  
+[1]
+**One-Model-All-Category Human Action Anomaly Detection**<br>
 <span data-language-text="ja"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
 <span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
-<span data-language-text="ja">[動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="zh" lang="zh-CN">[动态影像处理实际应用化研讨会 (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="en" lang="en">[Dynamic Image Processing for Real Application Workshop (DIA)](https://www.tc-iaip.org/dia/2025/)</span>, IS2-30, pp. 356-360, 2025
+<span data-language-text="ja">[動的画像処理実利用化ワークショップ（DIA）](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="zh" lang="zh-CN">[面向实际应用的动态图像处理研讨会（DIA）](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="en" lang="en">[Dynamic Image Processing for Real Application Workshop (DIA)](https://www.tc-iaip.org/dia/2025/)</span>, IS2-30, pp. 356–360, 2025
 
 </details>
 

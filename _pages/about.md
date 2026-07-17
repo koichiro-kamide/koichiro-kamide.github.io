@@ -144,45 +144,67 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
   <span data-language-text="en" lang="en">Publications</span>
 </h2>
 
-[14] **Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**  
-Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,  
-[**14th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)**](https://sites.google.com/view/mmac-acii-2026/overview?authuser=0), 2026 (accepted)
+<h3>
+  <span data-language-text="ja">学術雑誌</span>
+  <span data-language-text="zh" lang="zh-CN">学术期刊</span>
+  <span data-language-text="en" lang="en">Journal Articles</span>
+</h3>
 
-[13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  
-Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,  
-[**International Conference on Machine Vision (ICMV)**](https://icmv.org/), 2026 (accepted)
-
-[12] [**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)  
-Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,  
+[3] [**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)<br>
+Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,<br>
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. xx, No. xx, pp. xx-xx, 2026
 
-[11] **Image Anomaly Detection with Foreground-Aware Anomaly Synthesis**  
-Shohei Fuwa, <u>Koichiro Kamide</u>, Chunzhi Gu, Chao Zhang,  
-[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
-
-[10] **Human Action Recognition via Dataset Condensation**  
-Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,  
-[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
-
-[9] **Topology-Aware Multi-Scale Learning for Skeleton-Based Human Action Anomaly Detection**  
-Shun Maeda, Yijin Wei, <u>Koichiro Kamide</u>, Shogo Tokai, Chunzhi Gu, Chao Zhang,  
-[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
-
-[8] **Human Action Anomaly Detection via Spatial-Temporal Transformer Network**  
-Kousuke Yamamoto, <u>Koichiro Kamide</u>, Yijin Wei, Chunzhi Gu, Chao Zhang,  
-[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
-
-[7] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDP7152/_article)  
-Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,  
-[**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026  
+[2] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDP7152/_article)<br>
+Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<br>
+[**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026<br>
 <span data-language-text="ja">コードは[こちら](https://github.com/bigbearbear520/3DKeyAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN">代码已发布于[此处](https://github.com/bigbearbear520/3DKeyAD)。</span><span data-language-text="en" lang="en">The code is available [here](https://github.com/bigbearbear520/3DKeyAD).</span>
 
-[6] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)  
-<u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,  
+[1] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)<br>
+<u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,<br>
 [**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red;">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026<br>
 <span data-language-text="ja">コードは[こちら](https://github.com/koichiro-kamide/Few-shotHAAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN">代码已发布于[此处](https://github.com/koichiro-kamide/Few-shotHAAD)。</span><span data-language-text="en" lang="en">The code is available [here](https://github.com/koichiro-kamide/Few-shotHAAD).</span>
 
-[5]
+<h3>
+  <span data-language-text="ja">国際会議</span>
+  <span data-language-text="zh" lang="zh-CN">国际会议</span>
+  <span data-language-text="en" lang="en">International Conferences</span>
+</h3>
+
+[7] **Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**  
+Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,  
+[**14th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)**](https://sites.google.com/view/mmac-acii-2026/overview?authuser=0), 2026 (accepted)
+
+[6] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  
+Zi Wang, Katsuya Hotta, Yawen Zou, <u>Koichiro Kamide</u>, Yijin Wei, Chao Zhang, Jun Yu,  
+[**International Conference on Machine Vision (ICMV)**](https://icmv.org/), 2026 (accepted)
+
+[5] **Image Anomaly Detection with Foreground-Aware Anomaly Synthesis**  
+Shohei Fuwa, <u>Koichiro Kamide</u>, Chunzhi Gu, Chao Zhang,  
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
+
+[4] **Human Action Recognition via Dataset Condensation**  
+Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,  
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
+
+[3] **Topology-Aware Multi-Scale Learning for Skeleton-Based Human Action Anomaly Detection**  
+Shun Maeda, Yijin Wei, <u>Koichiro Kamide</u>, Shogo Tokai, Chunzhi Gu, Chao Zhang,  
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
+
+[2] **Human Action Anomaly Detection via Spatial-Temporal Transformer Network**  
+Kousuke Yamamoto, <u>Koichiro Kamide</u>, Yijin Wei, Chunzhi Gu, Chao Zhang,  
+[NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026 (accepted)
+
+[1] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**<br>
+Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
+[Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
+
+<h3>
+  <span data-language-text="ja">国内会議</span>
+  <span data-language-text="zh" lang="zh-CN">国内会议</span>
+  <span data-language-text="en" lang="en">Domestic Conferences</span>
+</h3>
+
+[3]
 <span data-language-text="ja">**相互作用を意識した複数人物の動作異常検知**</span>
 <span data-language-text="zh" lang="zh-CN">**面向交互关系的多人动作异常检测**</span>
 <span data-language-text="en" lang="en">**Multi-Person Action Anomaly Detection Considering Human Interactions**</span><br>
@@ -191,7 +213,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,
 <span data-language-text="en" lang="en">Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span><br>
 <span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference of the IEEJ Electronics, Information and Systems Society](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-9, pp. 979-982, 2025
 
-[4]
+[2]
 <span data-language-text="ja">**データ拡張を用いた人物動作異常検知**</span>
 <span data-language-text="zh" lang="zh-CN">**基于数据增强的人体动作异常检测**</span>
 <span data-language-text="en" lang="en">**Human Action Anomaly Detection Using Data Augmentation**</span><br>
@@ -200,15 +222,17 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span><br>
 <span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference of the IEEJ Electronics, Information and Systems Society](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-8, pp. 975-978, 2025
 
-[3] **Dynamically Adaptive Negative Pairs for Contrastive Multi-View Clustering**  
-Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,  
-[Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
-
-[2] **One-Model-All-Category Human Action Anomaly Detection**  
+[1] **One-Model-All-Category Human Action Anomaly Detection**  
 <span data-language-text="ja"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
 <span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
 <span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
 <span data-language-text="ja">[動的画像処理実利用化ワークショップ (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="zh" lang="zh-CN">[动态影像处理实际应用化研讨会 (DIA)](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="en" lang="en">[Dynamic Image Processing for Real Application Workshop (DIA)](https://www.tc-iaip.org/dia/2025/)</span>, IS2-30, pp. 356-360, 2025
+
+<h3>
+  <span data-language-text="ja">研究会</span>
+  <span data-language-text="zh" lang="zh-CN">研究会</span>
+  <span data-language-text="en" lang="en">Research Meetings</span>
+</h3>
 
 [1]
 <span data-language-text="ja">**Few-shot三次元人物動作異常検知**</span>

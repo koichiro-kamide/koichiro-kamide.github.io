@@ -321,14 +321,8 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 
 </details>
 
-<details class="publication-category" markdown="1">
-<summary>
-  <span data-language-text="ja">資格</span>
-  <span data-language-text="zh" lang="zh-CN">资格证书</span>
-  <span data-language-text="en" lang="en">Qualifications</span>
-</summary>
-
 <div data-language-block="ja" lang="ja" markdown="1">
+## 資格
 * 2024年4月　TOEIC Listening & Reading Test 865点　取得
 * 2023年6月　応用情報技術者試験　合格
 * 2023年6月　基本情報技術者試験　合格
@@ -336,6 +330,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 </div>
 
 <div data-language-block="zh" lang="zh-CN" markdown="1">
+## 资格证书
 * 2024年4月　TOEIC Listening & Reading Test 865分
 * 2023年6月　通过应用信息技术者考试
 * 2023年6月　通过基本信息技术者考试
@@ -343,13 +338,12 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang
 </div>
 
 <div data-language-block="en" lang="en" markdown="1">
+## Qualifications
 * April 2024: TOEIC Listening & Reading Test — Score: 865
 * June 2023: Passed the Applied Information Technology Engineer Examination
 * June 2023: Passed the Fundamental Information Technology Engineer Examination
 * February 2022: Obtained a Second-Class Electrician License
 </div>
-
-</details>
 
 </div>
 </div>

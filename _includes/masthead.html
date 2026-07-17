@@ -20,9 +20,67 @@
             <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
           -->
+          <li class="masthead__menu-item masthead__language-switch persist tail" aria-label="Language selection">
+            <a class="masthead__language-link" href="{{ base_path }}/#about-lang-ja" data-language-link="ja" lang="ja" aria-current="true">日本語</a>
+            <a class="masthead__language-link" href="{{ base_path }}/#about-lang-zh" data-language-link="zh" lang="zh-CN" aria-current="false">中文</a>
+            <a class="masthead__language-link" href="{{ base_path }}/#about-lang-en" data-language-link="en" lang="en" aria-current="false">English</a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
+
+<script>
+  (function () {
+    var supportedLanguages = ["ja", "zh", "en"];
+
+    function languageFromHash() {
+      var language = window.location.hash.replace("#about-lang-", "");
+      return supportedLanguages.indexOf(language) !== -1 ? language : null;
+    }
+
+    function currentLanguage() {
+      var savedLanguage = null;
+      try {
+        savedLanguage = window.localStorage.getItem("about-language");
+      } catch (error) {
+        savedLanguage = null;
+      }
+
+      return languageFromHash()
+        || (supportedLanguages.indexOf(savedLanguage) !== -1 ? savedLanguage : "ja");
+    }
+
+    function updateLanguageSwitch(language) {
+      if (supportedLanguages.indexOf(language) === -1) {
+        language = "ja";
+      }
+
+      document.querySelectorAll("[data-language-link]").forEach(function (link) {
+        link.setAttribute("aria-current", String(link.getAttribute("data-language-link") === language));
+      });
+
+      try {
+        window.localStorage.setItem("about-language", language);
+      } catch (error) {
+        // The switch still works when browser storage is unavailable.
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      updateLanguageSwitch(currentLanguage());
+
+      document.querySelectorAll("[data-language-link]").forEach(function (link) {
+        link.addEventListener("click", function () {
+          updateLanguageSwitch(link.getAttribute("data-language-link"));
+        });
+      });
+    });
+
+    window.addEventListener("hashchange", function () {
+      updateLanguageSwitch(currentLanguage());
+    });
+  }());
+</script>

@@ -145,7 +145,7 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
 </h2>
 
 [14] **Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**  
-Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,
+Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,  
 [**14th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)**](https://sites.google.com/view/mmac-acii-2026/overview?authuser=0), 2026 (accepted)
 
 [13] [**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**](https://arxiv.org/abs/2606.04369)  

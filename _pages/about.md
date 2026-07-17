@@ -234,7 +234,7 @@ Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao
   <span data-language-text="en" lang="en">Awards</span>
 </h2>
 
-[3] [**Short Paper Award**](https://www.art-science.org/nicograph/nicoint2026/#nicoint2026-awards:~:text=and%20Haoran%20Xie-,Short%20Paper%20Award,-Human%20Action%20Recognition)
+[3] [**Short Paper Award**](https://www.art-science.org/nicograph/nicoint2026/#nicoint2026-awards:~:text=and%20Haoran%20Xie-,Short%20Paper%20Award,-Human%20Action%20Recognition)  
 **Human Action Recognition via Dataset Condensation**,  
 Yijin Wei, Yawen Zou, <u>Koichiro Kamide</u>, Chunzhi Gu, Hangli Ge, Chao Zhang,  
 [NICOGRAPH International (NicoInt)](https://www.art-science.org/nicograph/nicoint2026/), 2026

@@ -167,7 +167,7 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
   <span data-language-text="en" lang="en">Publications</span>
 </h2>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" open markdown="1">
 <summary>
   <span data-language-text="ja">学術雑誌</span>
   <span data-language-text="zh" lang="zh-CN">学术期刊</span>
@@ -190,7 +190,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<b
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" open markdown="1">
 <summary>
   <span data-language-text="ja">国際会議</span>
   <span data-language-text="zh" lang="zh-CN">国际学术会议</span>
@@ -227,7 +227,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" open markdown="1">
 <summary>
   <span data-language-text="ja">国内会議</span>
   <span data-language-text="zh" lang="zh-CN">日本国内学术会议</span>
@@ -261,7 +261,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" open markdown="1">
 <summary>
   <span data-language-text="ja">研究会</span>
   <span data-language-text="zh" lang="zh-CN">日本国内学术研讨会</span>
@@ -281,7 +281,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" open markdown="1">
 <summary>
   <span data-language-text="ja">査読中</span>
   <span data-language-text="zh" lang="zh-CN">审稿中</span>
@@ -293,7 +293,7 @@ Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao
 
 </details>
 
-<details class="publication-category" markdown="1">
+<details class="publication-category" open markdown="1">
 <summary>
   <span data-language-text="ja">受賞</span>
   <span data-language-text="zh" lang="zh-CN">获奖</span>

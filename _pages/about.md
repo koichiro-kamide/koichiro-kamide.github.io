@@ -197,7 +197,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<b
   <span data-language-text="en" lang="en">International Conferences</span>
 </summary>
 
-[7] **Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**  
+[7] [**Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**](http://arxiv.org/abs/2607.17121)  
 Sosuke Suzuki, Yijin Wei, <u>Koichiro Kamide</u>, Ran Dong, Haoran Xie, Chao Zhang,  
 [**14th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)**](https://sites.google.com/view/mmac-acii-2026/overview?authuser=0), 2026 (accepted)
 

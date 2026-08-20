@@ -197,7 +197,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<b
   <span data-language-text="en" lang="en">International Conferences</span>
 </summary>
 
-[8] [**Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition**]  
+[8] **Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition**  
 Akari Inaba, Koji Shimizu, Junya Yamauchi, Yijin Wei, <u>Koichiro Kamide</u>, Chao Zhang,  
 [IEEE 15th Global Conference on Consumer Electronics (GCCE 2026)](https://www.ieee-gcce.org/2026/index.html), 2026 (accepted)
 

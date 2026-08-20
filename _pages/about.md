@@ -236,6 +236,15 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
   <span data-language-text="en" lang="en">Domestic Conferences in Japan</span>
 </summary>
 
+[4]
+<span data-language-text="ja">**Alpha-CLIP を用いた言語指示に基づく把持検出に関する検討**</span>
+<span data-language-text="zh" lang="zh-CN">**基于 Alpha-CLIP 的语言指令引导抓取检测研究**</span>
+<span data-language-text="en" lang="en">**A Study on Language-Instruction-Based Grasp Detection Using Alpha-CLIP**</span><br>
+<span data-language-text="ja"><u>上出耕一郎</u>, 鄒亜文, 韋一金, 張潮,</span>
+<span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Yawen Zou, Yijin Wei, Chao Zhang,</span>
+<span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Yawen Zou, Yijin Wei, Chao Zhang,</span><br>
+<span data-language-text="ja">[電気学会産業応用部門大会](https://gakkai-web.net/jiasc/program/hp26/)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会产业应用部门大会](https://gakkai-web.net/jiasc/program/hp26/)</span><span data-language-text="en" lang="en">[IEE-Japan Industry Applications Society Conference](https://gakkai-web.net/jiasc/program/hp26/)</span>, 6-O1-3, 2026
+
 [3]
 <span data-language-text="ja">**相互作用を意識した複数人物の動作異常検知**</span>
 <span data-language-text="zh" lang="zh-CN">**考虑人物间交互的多人动作异常检测**</span>

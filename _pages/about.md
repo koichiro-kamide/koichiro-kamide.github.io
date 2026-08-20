@@ -174,14 +174,13 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
   <span data-language-text="en" lang="en">Journal Articles</span>
 </summary>
 
-[3] [**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)<br>
+[3] **DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples** [[pdf](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)]<br>
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,<br>
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. xx, No. xx, pp. xx-xx, 2026
 
-[2] [**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDP7152/_article)<br>
+[2] **3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering** [[pdf](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDP7152/_article)] [[code](https://github.com/bigbearbear520/3DKeyAD)]<br>
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<br>
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026<br>
-<span data-language-text="ja">コードは[こちら](https://github.com/bigbearbear520/3DKeyAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN">代码已发布于[此处](https://github.com/bigbearbear520/3DKeyAD)。</span><span data-language-text="en" lang="en">The code is available [here](https://github.com/bigbearbear520/3DKeyAD).</span>
 
 [1] **Few-shot human action anomaly detection via a unified contrastive learning framework** [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705125021689)] [[code](https://github.com/koichiro-kamide/Few-shotHAAD)]<br>
 <u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,<br>

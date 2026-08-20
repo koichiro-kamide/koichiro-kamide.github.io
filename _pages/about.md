@@ -183,10 +183,9 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<b
 [**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026<br>
 <span data-language-text="ja">コードは[こちら](https://github.com/bigbearbear520/3DKeyAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN">代码已发布于[此处](https://github.com/bigbearbear520/3DKeyAD)。</span><span data-language-text="en" lang="en">The code is available [here](https://github.com/bigbearbear520/3DKeyAD).</span>
 
-[1] [**Few-shot human action anomaly detection via a unified contrastive learning framework**](https://www.sciencedirect.com/science/article/pii/S0950705125021689)<br>
+[1] **Few-shot human action anomaly detection via a unified contrastive learning framework** [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705125021689)] [[code](https://github.com/koichiro-kamide/Few-shotHAAD)]<br>
 <u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,<br>
 [**Knowledge-Based Systems**](https://www.sciencedirect.com/journal/knowledge-based-systems) (<span style="color: red;">**Impact Factor 2024=7.6**</span>), Vol. 334, pp. 115133, 2026<br>
-<span data-language-text="ja">コードは[こちら](https://github.com/koichiro-kamide/Few-shotHAAD)で公開しています。</span><span data-language-text="zh" lang="zh-CN">代码已发布于[此处](https://github.com/koichiro-kamide/Few-shotHAAD)。</span><span data-language-text="en" lang="en">The code is available [here](https://github.com/koichiro-kamide/Few-shotHAAD).</span>
 
 </details>
 

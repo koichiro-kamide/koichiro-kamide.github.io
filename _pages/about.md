@@ -180,7 +180,7 @@ Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zh
 
 [2] **3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering** [[pdf](https://www.jstage.jst.go.jp/article/transinf/E109.D/8/E109.D_2025EDP7152/_article/-char/en)] [[code](https://github.com/bigbearbear520/3DKeyAD)]<br>
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<br>
-[**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. xx-xx, 2026<br>
+[**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109-D, No. 8, pp. 1261-1269, 2026<br>
 
 [1] **Few-shot human action anomaly detection via a unified contrastive learning framework** [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705125021689)] [[code](https://github.com/koichiro-kamide/Few-shotHAAD)]<br>
 <u>Koichiro Kamide</u>, Shunsuke Sakai, Shun Maeda, Chunzhi Gu, Chao Zhang,<br>

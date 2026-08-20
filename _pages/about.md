@@ -292,7 +292,7 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
   <span data-language-text="en" lang="en">Under Review</span>
 </summary>
 
-[1] [**3D Human-Human Interaction Anomaly Detection**](https://arxiv.org/abs/2512.13560)  
+[1] **3D Human-Human Interaction Anomaly Detection** [[pdf]](https://arxiv.org/abs/2512.13560)  
 Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Katsuya Hotta, Shangce Gao, Chao Zhang
 
 </details>

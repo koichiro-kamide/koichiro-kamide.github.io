@@ -337,6 +337,23 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,
 
 </details>
 
+<details class="publication-category" open markdown="1">
+<summary>
+  <span data-language-text="ja">研究助成・フェローシップ</span>
+  <span data-language-text="zh" lang="zh-CN">研究资助与奖学金</span>
+  <span data-language-text="en" lang="en">Fellowships and Grants</span>
+</summary>
+
+[1]
+<span data-language-text="ja">**卓越した学生に対する授業料免除**</span>
+<span data-language-text="zh" lang="zh-CN">**优秀学生学费减免**</span>
+<span data-language-text="en" lang="en">**Tuition Exemption for Outstanding Students**</span><br>
+<span data-language-text="ja">富山大学、2026年度後期</span>
+<span data-language-text="zh" lang="zh-CN">富山大学，2026学年度后期</span>
+<span data-language-text="en" lang="en">University of Toyama, Second Semester of Academic Year 2026</span>
+
+</details>
+
 <div data-language-block="ja" lang="ja" markdown="1">
 ## 資格・試験
 * 2024年4月　TOEIC Listening & Reading Test　865点

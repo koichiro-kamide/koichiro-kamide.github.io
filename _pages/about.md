@@ -174,9 +174,9 @@ Deep learning, computer vision, anomaly detection, human motion, and related top
   <span data-language-text="en" lang="en">Journal Articles</span>
 </summary>
 
-[3] **DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples** [[pdf](https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDP7008/_article)]<br>
+[3] **DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples** [[pdf](https://www.jstage.jst.go.jp/article/transinf/E109.D/11/E109.D_2026EDP7008/_article)]<br>
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Jianjian Qin, Chao Zhang, Jun Yu,<br>
-[**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. xx, No. xx, pp. xx-xx, 2026
+[**IEICE TRANSACTIONS on Information and Systems**](https://globals.ieice.org/en_transactions/information), Vol. E109–D, No. 11, pp. 1786-1794, 2026
 
 [2] **3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering** [[pdf](https://www.jstage.jst.go.jp/article/transinf/E109.D/8/E109.D_2025EDP7152/_article/-char/en)] [[code](https://github.com/bigbearbear520/3DKeyAD)]<br>
 Zi Wang, Katsuya Hotta, <u>Koichiro Kamide</u>, Yawen Zou, Chao Zhang, Jun Yu,<br>

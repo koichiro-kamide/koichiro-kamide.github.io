@@ -236,39 +236,30 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
   <span data-language-text="en" lang="en">Domestic Conferences in Japan</span>
 </summary>
 
+[5]
+**異種骨格形式への転用を可能とする骨格ベース動作認識**<br>
+大竹 陸友、上出 耕一郎、韋 一金、堀田 克哉、顧 淳祉、張 潮<br>
+[第27回計測自動制御学会システムインテグレーション部門講演会（SI2026）](https://si2026.sice-si.org/index.php), 1F8-14, 2026
+
 [4]
-<span data-language-text="ja">**Alpha-CLIP を用いた言語指示に基づく把持検出に関する検討**</span>
-<span data-language-text="zh" lang="zh-CN">**基于 Alpha-CLIP 的语言指令引导抓取检测研究**</span>
-<span data-language-text="en" lang="en">**A Study on Language-Instruction-Based Grasp Detection Using Alpha-CLIP**</span><br>
-<span data-language-text="ja"><u>上出耕一郎</u>, 鄒亜文, 韋一金, 張潮,</span>
-<span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Yawen Zou, Yijin Wei, Chao Zhang,</span>
-<span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Yawen Zou, Yijin Wei, Chao Zhang,</span><br>
-<span data-language-text="ja">[電気学会産業応用部門大会](https://gakkai-web.net/jiasc/program/hp26/)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会产业应用部门大会](https://gakkai-web.net/jiasc/program/hp26/)</span><span data-language-text="en" lang="en">[IEE-Japan Industry Applications Society Conference](https://gakkai-web.net/jiasc/program/hp26/)</span>, 6-O1-3, 2026
+**Alpha-CLIP を用いた言語指示に基づく把持検出に関する検討**<br>
+<u>上出耕一郎</u>, 鄒亜文, 韋一金, 張潮,<br>
+[電気学会産業応用部門大会](https://gakkai-web.net/jiasc/program/hp26/), 6-O1-3, 2026
 
 [3]
-<span data-language-text="ja">**相互作用を意識した複数人物の動作異常検知**</span>
-<span data-language-text="zh" lang="zh-CN">**考虑人物间交互的多人动作异常检测**</span>
-<span data-language-text="en" lang="en">**Interaction-Aware Multi-Person Action Anomaly Detection**</span><br>
-<span data-language-text="ja">前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮,</span>
-<span data-language-text="zh" lang="zh-CN">Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span>
-<span data-language-text="en" lang="en">Shun Maeda, Chunzhi Gu, <u>Koichiro Kamide</u>, Shogo Tokai, Chao Zhang,</span><br>
-<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference on Electronics, Information and Systems, IEEJ](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-9, pp. 979–982, 2025
+**相互作用を意識した複数人物の動作異常検知**<br>
+前田駿, 顧淳祉, <u>上出耕一郎</u>, 東海彰吾, 張潮,<br>
+[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-9, pp. 979–982, 2025
 
 [2]
-<span data-language-text="ja">**データ拡張を用いた人物動作異常検知**</span>
-<span data-language-text="zh" lang="zh-CN">**基于数据增强的人体动作异常检测**</span>
-<span data-language-text="en" lang="en">**Human Action Anomaly Detection Using Data Augmentation**</span><br>
-<span data-language-text="ja"><u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮,</span>
-<span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span>
-<span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Shun Maeda, Shunsuke Sakai, Chunzhi Gu, Chao Zhang,</span><br>
-<span data-language-text="ja">[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="zh" lang="zh-CN">[日本电气学会电子、信息与系统部门大会](https://www.iee.jp/eiss/event/conf2025)</span><span data-language-text="en" lang="en">[Annual Conference on Electronics, Information and Systems, IEEJ](https://www.iee.jp/eiss/event/conf2025)</span>, OS4-2-8, pp. 975–978, 2025
+**データ拡張を用いた人物動作異常検知**<br>
+<u>上出耕一郎</u>, 前田駿, 坂井俊介, 顧淳祉, 張潮,<br>
+[電気学会 電子・情報・システム部門大会](https://www.iee.jp/eiss/event/conf2025), OS4-2-8, pp. 975–978, 2025
 
 [1]
 **One-Model-All-Category Human Action Anomaly Detection**<br>
-<span data-language-text="ja"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
-<span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
-<span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
-<span data-language-text="ja">[動的画像処理実利用化ワークショップ（DIA）](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="zh" lang="zh-CN">[面向实际应用的动态图像处理研讨会（DIA）](https://www.tc-iaip.org/dia/2025/)</span><span data-language-text="en" lang="en">[Dynamic Image Processing for Real Application Workshop (DIA)](https://www.tc-iaip.org/dia/2025/)</span>, IS2-30, pp. 356–360, 2025
+<u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,<br>
+[動的画像処理実利用化ワークショップ（DIA）](https://www.tc-iaip.org/dia/2025/), IS2-30, pp. 356–360, 2025
 
 </details>
 
@@ -280,15 +271,9 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,<br>
 </summary>
 
 [1]
-<span data-language-text="ja">**Few-shot三次元人物動作異常検知**</span>
-<span data-language-text="zh" lang="zh-CN">**少样本三维人体动作异常检测**</span>
-<span data-language-text="en" lang="en">**Few-Shot 3D Human Action Anomaly Detection**</span><br>
-<span data-language-text="ja"><u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,</span>
-<span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
-<span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
-<span data-language-text="ja">[メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>
-<span data-language-text="zh" lang="zh-CN">[媒体工程研究组（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>
-<span data-language-text="en" lang="en">[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
+**Few-shot三次元人物動作異常検知**<br>
+<u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,<br>
+[メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025
 
 </details>
 
@@ -322,18 +307,10 @@ Yu Ding, <u>Koichiro Kamide</u>, Jun Yu, Chao Zhang,
 [Quality Control by Artificial Vision (QCAV)](https://www.tc-iaip.org/qcav/2025/), S5-4, 2025
 
 [1]
-<span data-language-text="ja">[**研究奨励賞**](https://www.ite.or.jp/study/me/files/award.html)</span>
-<span data-language-text="zh" lang="zh-CN">[**研究鼓励奖**](https://www.ite.or.jp/study/me/files/award.html)</span>
-<span data-language-text="en" lang="en">[**Research Encouragement Award**](https://www.ite.or.jp/study/me/files/award.html)</span><br>
-<span data-language-text="ja">**Few-shot三次元人物動作異常検知**</span>
-<span data-language-text="zh" lang="zh-CN">**少样本三维人体动作异常检测**</span>
-<span data-language-text="en" lang="en">**Few-Shot 3D Human Action Anomaly Detection**</span><br>
-<span data-language-text="ja"><u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,</span>
-<span data-language-text="zh" lang="zh-CN"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span>
-<span data-language-text="en" lang="en"><u>Koichiro Kamide</u>, Chunzhi Gu, Shun Maeda, Jun Yu, Chao Zhang,</span><br>
-<span data-language-text="ja">[メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>
-<span data-language-text="zh" lang="zh-CN">[媒体工程研究组（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>
-<span data-language-text="en" lang="en">[Technical Group on Media Engineering (ME)](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME)</span>, 2025
+[**研究奨励賞**](https://www.ite.or.jp/study/me/files/award.html)<br>
+**Few-shot三次元人物動作異常検知**<br>
+<u>上出耕一郎</u>, 顧淳祉, 前田駿, 余俊, 張潮,<br>
+[メディア工学研究会（ME）](https://www.ite.or.jp/ken/program/index.php?tgs_regid=eaad7329a67e51120a4fda78e0770437c4d94cd15318bc2211cb5356630849dd&tgid=ITE-ME), 2025
 
 </details>
 
